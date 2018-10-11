@@ -1,0 +1,54 @@
+{
+  "_serializationVersion": 1,
+  "_serializedObject": "{
+  \"$id\": \"1\",
+  \"_name\": \"Classroom\",
+  \"_id\": \"523656990D5E5CF6\",
+  \"_metadata\": {
+    \"$id\": \"2\",
+    \"_systemMetadataVersion\": 2,
+    \"_systemMetadataCompatibleVersion\": 2,
+    \"_customer\": {
+      \"$id\": \"3\",
+      \"_country\": \"United States\"
+    },
+    \"_geographicLocation\": {
+      \"$id\": \"4\",
+      \"_countryOrRegion\": \"United States\",
+      \"_stateOrProvince\": \"New Jersey\",
+      \"_city\": \"Rockleigh\",
+      \"_useCustomLocation\": false,
+      \"_latitudeDegrees\": 41,
+      \"_latitudeMinutes\": 0,
+      \"_latitudeDirection\": 1,
+      \"_longitudeDegrees\": 73,
+      \"_longitudeMinutes\": 56,
+      \"_longitudeDirection\": 0,
+      \"_gmtMinutesOffset\": -300,
+      \"_adjustForDST\": true
+    },
+    \"_internalImages\": [],
+    \"_metadataVersion\": 2,
+    \"_metadataCompatibleVersion\": 2,
+    \"_category\": \"\",
+    \"_creationDateTime\": \"2018-10-11T02:57:59.6331536-06:00\",
+    \"_lastOpenedDateTime\": \"2018-10-11T07:22:54.9100751-06:00\",
+    \"_lastSavedDateTime\": \"2018-10-11T07:47:34.1300599-06:00\",
+    \"_createdByApp\": \"Crestron Studio\",
+    \"_createdByAppVersion\": \"1.75.405.0\",
+    \"_lastSavedByApp\": \"Crestron Studio\",
+    \"_lastSavedByAppVersion\": \"1.75.405.0\",
+    \"_wasClosedCleanly\": false,
+    \"_lastKnownState\": 2,
+    \"_inUseByProcessId\": 1212,
+    \"_sharedFolderPathKey\": \"\",
+    \"_contentsSummary\": \"DM-RMC-4K-100-C (Crestron DM-RMC-4K-100-C)\\r\\nMP-B10 (Crestron MP-B10)\\r\\nDM-TX-4K-302-C (Crestron DM-TX-4K-302-C)\\r\\nDMPS3-4K-150-C (Crestron DMPS3-4K-150-C)\\r\\n\"
+  },
+  \"_projectHandleVersion\": 0,
+  \"_projectHandleCompatibleVersion\": 0
+}",
+  "_options": {
+    "_isStringFormatted": true,
+    "_flags": 0
+  }
+}

@@ -1,0 +1,13 @@
+Crosspoint listing for C:\Users\Nathan\DOCUME~1\Crestron\Projects\Systems\CLASSR~1\Output\Programs\AVFRAM~1\Classroom.SMW
+
+Note:  Crosspoint symbols with  or  set to 0d are not routeable.
+
+                                                                                                    
+====================================================================================================
+S-2 in macro S-1.1.1.1 (Module File SB System v2.0 (cm).cmc)                                        0
+S-4.2 in macro S-1.1.3.2.2.1 (Module File CSR Media Room v1.1 (cm).cmc)                             51011
+
+                                                                                                    
+====================================================================================================
+S-1 in macro S-1.1.1.1 (Module File SB System v2.0 (cm).cmc)                                        0
+
